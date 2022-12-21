@@ -1,0 +1,14 @@
+com\tej\JooQDemo\jooq\sample\model\tables\Customers.class
+com\tej\JooQDemo\jooq\sample\model\tables\records\UsersRecord.class
+com\tej\JooQDemo\jooq\sample\model\Keys.class
+com\tej\JooQDemo\jooq\sample\model\DefaultCatalog.class
+com\tej\JooQDemo\jooq\sample\model\tables\pojos\Users.class
+com\tej\JooQDemo\jooq\sample\model\tables\pojos\Teachers.class
+com\tej\JooQDemo\jooq\sample\model\Customerdb.class
+com\tej\JooQDemo\jooq\sample\model\tables\records\TeachersRecord.class
+com\tej\JooQDemo\jooq\sample\model\tables\Users.class
+com\tej\JooQDemo\jooq\sample\model\tables\pojos\Customers.class
+com\tej\JooQDemo\jooq\sample\model\tables\Teachers.class
+com\tej\JooQDemo\jooq\sample\model\Tables.class
+com\tej\JooQDemo\jooq\sample\model\tables\records\CustomersRecord.class
+com\javatechie\jooq\SpringBootJooqApplication.class
